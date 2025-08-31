@@ -1,6 +1,6 @@
 [project]
-name = "luhuo_qwen3_mt_mcp_server"
-version = "1.0.3"
+name = "luhuo-qwen3-mt-mcp-server"
+version = "1.0.11"
 description = "基于阿里云通义千问翻译模型的MCP服务器，支持92种语言互译、流式翻译、术语干预和领域提示"
 authors = [
     {name = "炉火", email = "chenrongjie@luhuokj.com"}
@@ -24,5 +24,4 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src"]
-
+packages = ["."]
