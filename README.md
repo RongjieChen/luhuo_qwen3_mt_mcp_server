@@ -155,6 +155,22 @@ uvx luhuo_qwen3_mt_mcp_server
 
 ## 使用示例
 
+### **泰语翻译示例**
+
+```
+我需要高质量的翻译请调用工具来执行，翻译下“我已经吃得很饱了”这句话为泰文
+```
+
+![泰文](https://testmodelscope.tos-cn-beijing.volces.com/thai.png)
+
+### **日语翻译示例**
+
+```
+我已经吃得很饱了这句话用日文应该怎么说
+```
+
+![日语](https://testmodelscope.tos-cn-beijing.volces.com/jpan.png)
+
 ## 支持的语言
 
 本服务器支持 92 种语言，包括但不限于：
