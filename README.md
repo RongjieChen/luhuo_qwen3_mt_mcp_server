@@ -22,22 +22,6 @@
 | qwen-mt-plus  | 通义千问翻译增强版 | 对翻译质量要求较高的场景         | 4,096 tokens |
 | qwen-mt-turbo | 通义千问翻译快速版 | 希望翻译速度更快或成本更低的场景 | 4,096 tokens |
 
-## 项目结构
-
-```
-qwen-mt-mcp-server/
-├── src/                     # 源代码目录
-│   ├── __init__.py         # 包初始化文件
-│   ├── config.py           # 配置模块
-│   ├── clients.py          # 客户端模块
-│   └── translation.py      # 翻译功能模块
-├── luhuo_qwen3_mt_mcp_server.py   # 主服务器文件
-├── pyproject.toml          # 项目配置文件
-├── .env.example           # 环境变量示例文件
-├── README.md              # 项目文档
-└── LICENSE                # 许可证文件
-```
-
 ## 部署指南
 
 ### 环境要求
