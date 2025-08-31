@@ -1,6 +1,6 @@
 # 炉火基于 Qwen3-MT 的翻译 MCP Server
 
-基于阿里通义千问翻译模型 Qwen3-MT https://help.aliyun.com/zh/model-studio/machine-translation#144a0417aeg3d 的 MCP（Model Context Protocol）服务器，支持 92 种语言互译、流式翻译、术语干预和领域提示等高级功能。
+基于阿里通义千问翻译模型 Qwen3-MT https://help.aliyun.com/zh/model-studio/machine-translation 的 MCP（Model Context Protocol）服务器，支持 92 种语言互译、流式翻译、术语干预和领域提示等高级功能。
 
 ## 项目简介
 
